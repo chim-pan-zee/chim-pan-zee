@@ -1,6 +1,6 @@
 
 <div align = "center">
-  <h1></h1><h1>🦍안녕하세요. 저는 chimpanzee 입니다.🦍</h1>
+  <h1></h1><h1>🦍안녕하세요. 저는 chim-pan-zee 입니다.🦍</h1>
   <p>🐒티스토리에서 [침팬지 블로그] 를 운영하고 있습니다.🐒</p>
   <a href="https://chimpanzee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=Tistory&logoColor=white"/></a><br><br><h1></h1><h1>🆎사용하는 언어🆎</h1>
 
